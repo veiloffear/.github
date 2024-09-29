@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/veiloffear">
-    <img src="blob:https://imgur.com/454685cc-4026-4ed8-8173-06e1416d0fe3" width="200px"/>
+    <img src="https://i.imgur.com/tc9xgZG.jpeg" width="200px"/>
   </a>
 </p>
 
